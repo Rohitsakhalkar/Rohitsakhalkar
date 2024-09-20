@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning new thing and exploring
 - 🌱 I’m currently learning ...c programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Rohitsakhalkar3@gmail.com or @Rohitsakhalkar9347
+- 📫 How to reach me ... Rohitsakhalkar3@gmail.com or #rohitsakhalkar9347
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...I am a newbie  
 
