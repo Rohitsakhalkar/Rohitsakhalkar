@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Rohit Sakhalkar</h1>
-<h3 align="center">Frontend Developer | Web Designer (in progress) | Firebase Explorer</h3>
+<h3 align="center">🚀 Frontend Developer | 🎨 Web Designer (in progress) | 🛠 HTML | CSS | JavaScript | Firebase</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohitsakhalkar&label=Profile%20views&color=0e75b6&style=flat" alt="Rohitsakhalkar" />
