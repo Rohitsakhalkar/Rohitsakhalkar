@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Sakhalkar</h1>
+<h1 align="center">Hi , I'm Rohit Sakhalkar</h1>
 
 <h3 align="center">
 Python Developer • Aspiring Automation Engineer • Software Engineering Student
@@ -10,17 +10,17 @@ I enjoy building software from scratch, solving problems with Python, and learni
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 BCA Student
-- 🐍 Focused on Python and Software Engineering
-- ⚙️ Learning Automation, Backend Development & System Design
-- 🧪 Interested in Testing, Clean Code, and Developer Tools
-- 🌱 Currently exploring Git, Linux, SQL, FastAPI, Playwright, and AI
+- BCA Student
+- Focused on Python and Software Engineering
+- Learning Automation, Backend Development & System Design
+- Interested in Testing, Clean Code, and Developer Tools
+- Currently exploring Git, Linux, SQL, FastAPI, Playwright, and AI
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -44,7 +44,7 @@ I enjoy building software from scratch, solving problems with Python, and learni
 
 ---
 
-## 📚 Current Focus
+## Current Focus
 
 - Data Structures & Algorithms
 - Python Package Development
@@ -55,15 +55,14 @@ I enjoy building software from scratch, solving problems with Python, and learni
 
 ---
 
-## 🚀 Featured Projects
-
-- 📦 Data Structures Package (Python)
-- 🎵 Hawks Media Player
-- 📚 LearnAble (Accessible Learning Platform)
+## Featured Projects
+- Get It Done 
+- Data Structures Package (Python)
+- LearnAble (Accessible Learning Platform)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rohitsakhalkar&show_icons=true&theme=github_dark" />
@@ -75,12 +74,12 @@ I enjoy building software from scratch, solving problems with Python, and learni
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/rohitsakhalkar9347/
 
 ---
 
 <p align="center">
-Building one project at a time. 🚀
+Build by Sakhalkar ,In search of meaning. 
 </p>
