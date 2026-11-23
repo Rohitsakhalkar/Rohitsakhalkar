@@ -80,6 +80,6 @@ I enjoy building software from scratch, solving problems with Python, and learni
 
 ---
 
-<p align="center">
-Build by Sakhalkar ,In search of meaning. 
-</p>
+<h1 align="center">
+Build by Sakhalkar, In search of meaning. 
+</h1>
